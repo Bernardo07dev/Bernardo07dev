@@ -1,12 +1,12 @@
-<h3 align="left">Olá👋 , eu sou o Bernardo</h3>
+<h2 align="left">Olá👋 , eu sou o Bernardo</h2>
 
 ###
 
-<h6 align="left">Estudante de Engenharia de Software com foco no desenvolvimento de soluções robustas e escaláveis. Aplico o conhecimento em diversos projeto que podem ser vistos nesse repositório</h6>
+<p align="left">Estudante de Engenharia de Software com foco no desenvolvimento de soluções robustas e escaláveis. Aplico o conhecimento em diversos projeto que podem ser vistos nesse repositório</p>
 
 ###
 
-<img src="https://raw.githubusercontent.com/Bernardo07dev/Bernardo07dev/output/snake.svg" alt="Snake animation" />
+<br clear="both">
 
 ###
 
@@ -43,7 +43,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bernardo07dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Bernardo07dev&theme=chalk&column=4&row=1&margin-w=0&margin-h=0&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
